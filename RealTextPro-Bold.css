@@ -1,10 +1,10 @@
 /* Webfont: RealTextPro-Bold */@font-face {
     font-family: 'RealTextPro';
-    src: url('RealTextPro-Bold.eot'); /* IE9 Compat Modes */
-    src: url('RealTextPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('RealTextPro-Bold.woff') format('woff'), /* Modern Browsers */
-         url('RealTextPro-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('RealTextPro-Bold.svg#RealTextPro-Bold') format('svg'); /* Legacy iOS */
+    src: url('https://github.com/maxappnl/realtextpro/blob/main/RealTextPro-Bold.eot?raw=true'); /* IE9 Compat Modes */
+    src: url('https://github.com/maxappnl/realtextpro/blob/main/RealTextPro-Bold.eot?raw=true#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://github.com/maxappnl/realtextpro/blob/main/RealTextPro-Bold.woff?raw=true') format('woff'), /* Modern Browsers */
+         url('https://github.com/maxappnl/realtextpro/blob/main/RealTextPro-Bold.ttf?raw=true') format('truetype'), /* Safari, Android, iOS */
+         url('https://github.com/maxappnl/realtextpro/blob/main/RealTextPro-Bold.svg?raw=true#RealTextPro-Bold') format('svg'); /* Legacy iOS */
     font-style: normal;
     font-weight: bold;
     text-rendering: optimizeLegibility;
